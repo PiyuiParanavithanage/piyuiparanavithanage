@@ -7,11 +7,19 @@
 
 - 🌱 I’m currently learning **Web Application Development and Quality Assuarence and Automation**
 
+- 👯 I’m looking to collaborate on **..**
+
+- 👨‍💻 All of my projects are available at [..](..)
+
 - 📝 I regularly write articles on [https://wordpress.com/view/socialsociety59.wordpress.com](https://wordpress.com/view/socialsociety59.wordpress.com)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Cypress**
 
 - 📫 How to reach me **piyumiwathsala310@gmail.com**
+
+- 📄 Know about my experiences [..](..)
+
+- ⚡ Fun fact **..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
