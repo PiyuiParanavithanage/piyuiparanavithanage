@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **piyumiwathsala310@gmail.com**
 
-- 📄 Know about my experiences [..]([..](https://drive.google.com/file/d/1h0ayafcB_5OWMlhq6l2SDEOyixRRAhIG/view?usp=sharing))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1h0ayafcB_5OWMlhq6l2SDEOyixRRAhIG/view?usp=sharing](https://drive.google.com/file/d/1h0ayafcB_5OWMlhq6l2SDEOyixRRAhIG/view?usp=sharing)
 
 - ⚡ Fun fact **..**
 
