@@ -1,9 +1,9 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo18224
-Fork on GitHub5393
-<h1 align="center">Hi 👋, I'm Piyumi Paranavithanage</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyuiparanavithanage&label=Profile%20views&color=0e75b6&style=flat" alt="piyuiparanavithanage" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&align=center&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Piyumi+Paranavithanage;OUSL+-+Open+University+of+Sri+Lanka;Bachelor+of+Software+Engineering+Honors+Degree)](https://git.io/typing-svg)
+
+<!-- <h1 align="center">Hi 👋, I'm Piyumi Paranavithanage</h1> -->
+<!-- <h3 align="center">Software Engineering Undergraduate</h3> -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyuiparanavithanage&label=Profile%20views&color=0e75b6&style=flat" alt="piyumiparanavithanage" /> </p>
 
 - 🌱 I’m currently learning **Web Application Development and Quality Assuarence and Automation**
 
@@ -16,7 +16,9 @@ Fork on GitHub5393
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/piyumi-paranavithanage-b1715a217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/piyumi-paranavithanage-b1715a217" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/piyumi paranavithanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/piyumi paranavithanage" height="30" width="40" /></a>
+<a href="https://fb.com/piyumi paranavithanage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="piyumi paranavithanage" height="30" width="40" /></a>
+<a href="https://instagram.com/_pi_yu_mi_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pi_yu_mi_99" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://wordpress.com/view/socialsociety59.wordpress.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://wordpress.com/view/socialsociety59.wordpress.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,27 +28,3 @@ Fork on GitHub5393
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyuiparanavithanage&" alt="piyuiparanavithanage" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
