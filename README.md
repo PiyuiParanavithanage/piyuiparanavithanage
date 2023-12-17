@@ -34,11 +34,8 @@
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyuiparanavithanage&show_icons=true&locale=en&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&color=FFFFFF" alt="piyumiparanavithanage" /></p>
 
-<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=piyuiparanavithanage&theme=tokyonight&show_icons=true&locale=en" alt="piyumiparanavithanage" /></p>
 
-<p align="left">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyuiparanavithanage&theme=algolia" alt="piyumiparanavithanage" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyuiparanavithanage&show_icons=true&locale=en" alt="piyuiparanavithanage" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyuiparanavithanage&show_icons=true&locale=en" alt="piyumiparanavithanage"  /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyuiparanavithanage&" alt="piyuiparanavithanage" /></p>
 
