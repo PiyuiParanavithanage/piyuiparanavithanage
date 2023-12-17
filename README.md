@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&align=center&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Piyumi+Paranavithanage;OUSL+-+Open+University+of+Sri+Lanka;Bachelor+of+Software+Engineering+Honors+Degree)](https://git.io/typing-svg)
 
-<!-- <h1 align="center">Hi 👋, I'm Piyumi Paranavithanage</h1> -->
+<!-- <h1 align="center">Hi 👋, I'm Piyumi Wathsala Paranavithanage</h1> -->
 <!-- <h3 align="center">Software Engineering Undergraduate</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyuiparanavithanage&label=Profile%20views&color=0e75b6&style=flat" alt="piyumiparanavithanage" /> </p>
