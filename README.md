@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **..**
 
-- 👨‍💻 All of my projects are available at [..](..)
+- 👨‍💻 All of my projects are available at [https://piyuiparanavithanage.github.io/portfolio/](https://piyuiparanavithanage.github.io/portfolio/)
 
 - 📝 I regularly write articles on [https://wordpress.com/view/socialsociety59.wordpress.com](https://wordpress.com/view/socialsociety59.wordpress.com)
 
